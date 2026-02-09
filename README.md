@@ -24,7 +24,7 @@ The repository includes technical views to demonstrate the system layout:
 
 ## 👨‍💻 Author
 
-**Yazan Alzyuod** *Mechanical Engineer* 📧 [yqlasem@gmail.com](mailto:yqlasem@gmail.com)  
+**Yazan Alzyuod** *Mechanical Engineer*
+📧 [yqlasem@gmail.com](mailto:yqlasem@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yazan-al-zyuod/)  
-💻 [GitHub Profile](https://github.com/YazanAlzyuod)  
 📞 00962775327776
